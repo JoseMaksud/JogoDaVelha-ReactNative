@@ -1,0 +1,6 @@
+npx create-expo-app@latest jogo-da-velha --template blank
+
+npx expo start --localhost --android
+
+-- web
+npx expo install react-dom react-native-web @expo/metro-runtime
