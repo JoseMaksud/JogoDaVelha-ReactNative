@@ -1,5 +1,10 @@
 npx create-expo-app@latest jogo-da-velha --template blank
 
+npx expo start 
+
+aperte 'a' para celular
+aperte 'w' para navegador
+
 npx expo start --localhost --android
 
 -- web
